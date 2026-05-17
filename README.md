@@ -6,6 +6,7 @@ This is a PoC which aims to create a [Custom Gradle Distribution](https://docs.g
 which would reduce duplication of common configurations needed usually inside mid to big corporations  — specially in a
 microservices ecosystem which ends up in tons of repositories, along with standardisation of tasks through plugins
 automatically applied.
+local
 
 ## Components
 
